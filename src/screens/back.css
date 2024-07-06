@@ -1,0 +1,146 @@
+.background{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.f_s3a5_MMMfdIzBCuOO-yQHaEK&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(80, 77, 77);
+    height: 100vh;
+    
+  }
+  .opacity{
+    opacity: 5;
+  }
+
+  
+
+  
+  .box{
+    border:2px dotted rgb(42, 41, 41);
+    height: 90px;
+    padding: 5px;
+    margin-left: 10px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+   
+    
+  
+  }
+  .box img{
+    height: 100%;
+    width: 100px;
+  }
+  .box p{
+
+    margin-left: 10px;
+  }
+
+  .Box1{
+
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.ymI1DRLtwIDcHS-WZus_zQHaEK&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 100vh;
+    position:sticky;
+    top: 0;
+    transition: all;
+  }
+
+  body.active-modal {
+    overflow-y: hidden;
+}
+
+.btn-modal {
+    padding: 10px 20px;
+    display: block;
+    margin: 100px auto 0;
+    font-size: 18px;
+}
+
+.modal, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.overlay {
+    background: rgba(49,49,49,0.8);
+}
+.modal-content {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #f1f1f1;
+    padding: 14px 28px;
+    border-radius: 3px;
+    max-width: 600px;
+    min-width: 300px;
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 7px;
+}
+
+.Inside{
+  height: 90px;
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  height: 400px;
+ 
+  
+}
+.Inside img{
+    height: 100%;
+    width: 100px;
+
+}
+
+.pay{
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+@media only screen and  (max-width:500px)
+{
+   
+  .pay{
+    margin-left: 30px;
+  }
+
+
+}
+
+@media only screen and  (max-width:509px)
+{
+   
+  
+  .cart{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  
+  }
+ 
+  .Inside img{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+  }
+
+
+}
