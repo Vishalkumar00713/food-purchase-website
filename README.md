@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![beforelogin](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/0683bef4-a125-469d-b9fc-dc4993a2c70c)
+
+![afterlogin](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/7b0c6315-d718-4d20-8ba8-6d6780a7c77c)
+
+![login](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/34aa0479-21f9-42f2-8fe5-7c296f8a6c8d)
+
+![cart](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/c665a021-375c-4fb1-801a-09cc943c982f)
+
+![search](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/3d3b72c4-d739-45f6-8ceb-ac586d345464)
+![signup](https://github.com/Vishalkumar00713/food-purchase-website/assets/136683003/73126faf-5236-4584-b66e-b17fd50a0d15)
